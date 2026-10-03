@@ -1,0 +1,42 @@
+partition,dataset,intent,text
+train,,shipping,Shop có giao hàng không?
+train,,shipping,Shop có ship không?
+train,,shipping_fee,Phí giao hàng là bao nhiêu?
+train,,shipping_fee,Phí ship bao nhiêu?
+train,,payment,Shop hỗ trợ thanh toán bằng cách nào?
+train,,payment,Có được thanh toán khi nhận hàng không?
+train,,return_policy,Chính sách đổi trả của shop thế nào?
+train,,return_policy,Tôi đổi sang size khác được không?
+train,,promotion,Shop đang có khuyến mãi gì?
+train,,promotion,Shop có mã giảm giá không?
+train,,store_address,Cửa hàng ở đâu?
+train,,store_address,Địa chỉ shop là gì?
+train,,product_support,Tư vấn size giúp tôi
+train,,product_support,Làm sao biết sản phẩm còn hàng?
+validation,,shipping,Shop có giao hàng toàn quốc chứ?
+validation,,shipping_fee,Tính phí ship giúp mình nhé
+validation,,payment,Shop có nhận thanh toán COD không?
+validation,,return_policy,Tôi muốn hỏi về quy định đổi hàng
+validation,,promotion,Hiện tại có ưu đãi nào không?
+validation,,store_address,Cho mình xin địa chỉ cửa hàng
+validation,,product_support,Shop tư vấn giúp mình chọn cỡ áo nhé
+validation,,unknown,Chỉ mình cách nấu món phở
+validation,,unknown,Ngày mai trời có mưa không?
+test,faq_paraphrase,shipping,Bạn có giao đơn về tỉnh không?
+test,faq_paraphrase,shipping_fee,Cước vận chuyển tính như thế nào?
+test,faq_paraphrase,payment,Mình có thể trả tiền lúc nhận hàng chứ?
+test,faq_paraphrase,return_policy,Hàng mua rồi có được đổi trả không?
+test,faq_paraphrase,promotion,Shop đang có chương trình giảm giá nào vậy?
+test,faq_paraphrase,store_address,Cửa hàng nằm ở địa chỉ nào?
+test,faq_paraphrase,product_support,Sản phẩm này còn hàng và đủ size không?
+test,faq_paraphrase,unknown,Tư vấn giúp mình lịch trình du lịch Đà Lạt
+test,faq_paraphrase,unknown,Cách kết nối máy in với máy tính
+test,faq_noisy,shipping,shop co giao hang tan noi ko
+test,faq_noisy,shipping_fee,phi van chuyen bao nhieu vay
+test,faq_noisy,payment,shop cho thanh toan khi nhan hang dc ko
+test,faq_noisy,return_policy,doi tra san pham the nao a
+test,faq_noisy,promotion,shop co voucher giam gia ko
+test,faq_noisy,store_address,dia chi cua hang o dau vay
+test,faq_noisy,product_support,con hang size nao vay shop
+test,faq_noisy,unknown,giup minh sua loi wifi voi
+test,faq_noisy,unknown,toi nen nghe bai nhac gi hom nay

@@ -1,0 +1,62 @@
+partition,dataset,intent,text
+train,,greeting,Xin chào
+train,,greeting,Chào shop
+train,,catalog,Shop có những sản phẩm nào
+train,,shipping,Shop có giao hàng không
+train,,payment,Shop thanh toán như thế nào
+train,,thanks,Cảm ơn
+train,,bye,Tạm biệt
+train,,greeting,Chào bạn
+train,,greeting,Shop kính chào bạn
+train,,greeting,Chào cửa hàng
+train,,catalog,Cửa hàng bán những mặt hàng nào
+train,,catalog,Cho mình xem các loại sản phẩm
+train,,catalog,Danh mục hàng shop hiện có
+train,,shipping,Bên shop có giao hàng không
+train,,shipping,Shop có vận chuyển hàng tận nơi chứ
+train,,shipping,Cửa hàng nhận ship hàng chứ
+train,,payment,Shop nhận thanh toán khi nhận hàng không
+train,,payment,Mình trả bằng thẻ hay chuyển khoản được
+train,,payment,Có hỗ trợ COD không
+train,,thanks,Cảm ơn bạn nhé
+train,,thanks,Mình cảm ơn shop
+train,,thanks,Xin cảm ơn
+train,,bye,Chào shop mình về nhé
+train,,bye,Tạm biệt shop nhé
+train,,bye,Hẹn gặp lại nhé
+validation,,greeting,Chào shop mình cần tư vấn
+validation,,catalog,Shop có bán quần áo gì vậy
+validation,,shipping,Có giao đơn hàng đến nhà không
+validation,,payment,Thanh toán đơn hàng bằng cách nào vậy
+validation,,thanks,Cám ơn bạn nhiều nha
+validation,,bye,Mình xin chào tạm biệt
+validation,,unknown,Bạn chỉ giúp đường đi tới bến xe
+validation,,unknown,Hướng dẫn mình cài lại Windows
+test,paraphrase,greeting,Shop ơi mình chào shop nhé
+test,paraphrase,greeting,Xin chào cửa hàng
+test,paraphrase,catalog,Hiện shop đang bán những mặt hàng gì
+test,paraphrase,catalog,Mình muốn xem danh mục quần áo của shop
+test,paraphrase,shipping,Bên mình có gửi hàng về tỉnh không
+test,paraphrase,shipping,Mình muốn hỏi cửa hàng có hỗ trợ vận chuyển không
+test,paraphrase,payment,Cho mình hỏi có thể trả tiền bằng chuyển khoản không
+test,paraphrase,payment,Các hình thức thanh toán của shop là gì
+test,paraphrase,thanks,Cảm ơn bạn đã tư vấn
+test,paraphrase,thanks,Mình cảm ơn shop nhiều nhé
+test,paraphrase,bye,Hẹn gặp lại cửa hàng
+test,paraphrase,bye,Mình đi đây, tạm biệt nhé
+test,paraphrase,unknown,Ngày mai thời tiết ở Hà Nội thế nào
+test,paraphrase,unknown,Bạn kể cho mình nghe một câu chuyện vui đi
+test,noisy,greeting,Chao shopp
+test,noisy,greeting,xin chao shop a
+test,noisy,catalog,shop dang ban nhung mat hang gi vay
+test,noisy,catalog,co nhung loai san pham nao a
+test,noisy,shipping,shop co ship hang khong a
+test,noisy,shipping,giao hang ve tinh duoc khong
+test,noisy,payment,thanh toan cod dc ko
+test,noisy,payment,shop nhan chuyen khoan ko vay
+test,noisy,thanks,cam on nha shop
+test,noisy,thanks,camon ban nhieu
+test,noisy,bye,tam biet nhe
+test,noisy,bye,chuc shop mot ngay tot lanh minh di day
+test,noisy,unknown,chi minh cach sua loi may tinh voi
+test,noisy,unknown,hom nay nen nau mon gi
